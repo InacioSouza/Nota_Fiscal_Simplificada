@@ -24,6 +24,7 @@ Sobre estas entidades são realizadas operações de CRUD (criação, leitura, a
   
 2. `Front-end`:
      + Angular 16
+     +  DevExtreme
 
 <h2 id="started">🚀 Como rodar</h2>
 
